@@ -1,0 +1,5 @@
+first_name = input()
+last_name = input()
+separator = input()
+output = "{}{}{}".format(first_name, separator, last_name)
+print(output)
